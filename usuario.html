@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Quiniela Resultados PRO</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+    font-family: 'Segoe UI';
+    background: linear-gradient(135deg,#0f172a,#1e293b);
+    color:white;
+    margin:0;
+    padding:20px;
+}
+
+.container {
+    max-width:1300px;
+    margin:auto;
+}
+
+/* TITULOS */
+h1 {
+    text-align:center;
+}
+
+h2 {
+    border-left:5px solid #22c55e;
+    padding-left:10px;
+}
+
+/* KPIs */
+.kpis{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:15px;
+    margin-top:20px;
+}
+
+.kpi{
+    background:#1e293b;
+    padding:20px;
+    border-radius:12px;
+    text-align:center;
+}
+
+/* TOP 3 */
+.top3{
+    display:flex;
+    justify-content:space-around;
+    margin-top:20px;
+}
+
+.cardTop{
+    padding:20px;
+    border-radius:12px;
+    width:140px;
+    text-align:center;
+}
+
+/* TABLAS */
+table{
+    width:100%;
+    margin-top:20px;
+    border-collapse:collapse;
+    background:#1e293b;
+}
+
+th{
+    background:#334155;
+    padding:8px;
+}
+
+td{
+    padding:6px;
+    text-align:center;
+}
+
+tr:hover{
+    background:#475569;
+}
+
+/* MATRIZ */
+#matriz td{
+    width:28px;
+    height:28px;
+}
+
+.dot{
+    width:16px;
+    height:16px;
+    border-radius:50%;
+    margin:auto;
+}
+
+.verde{background:#22c55e;}
+.rojo{background:#ef4444;}
+
+.section{
+    margin-top:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🏆 Resultados Quiniela</h1>
+
+<p id="fecha"></p>
+
+<!-- KPIs -->
+<div class="kpis">
+<div class="kpi"><h2 id="totalJugadores">0</h2><p>Jugadores</p></div>
+<div class="kpi"><h2 id="totalPartidos">0</h2><p>Partidos</p></div>
+<div class="kpi"><h2 id="promedio">0%</h2><p>Promedio</p></div>
+</div>
+
+<!-- TOP 3 -->
+<div class="section">
+<h2>🏆 TOP 3</h2>
+<div id="top3" class="top3"></div>
+</div>
+
+<!-- GRAFICA -->
+<canvas id="grafica"></canvas>
+
+<!-- MATRIZ -->
+<div class="section">
+<h2>📊 Matriz</h2>
+<div style="overflow:auto;">
+<table id="matriz"></table>
+</div>
+</div>
+
+<!-- RANKING -->
+<div class="section">
+<h2>📊 Ranking</h2>
+<table>
+<thead>
+<tr>
+<th>Jugador</th>
+<th>Aciertos</th>
+</tr>
+</thead>
+<tbody id="ranking"></tbody>
+</table>
+</div>
+
+</div>
+
+<script>
+
+fetch("resultados.json")
+.then(r=>r.json())
+.then(data=>{
+
+    document.getElementById("fecha").innerText="Actualizado: "+data.fecha;
+
+    let jugadores=data.jugadores;
+    let baseData=data.baseData;
+    let resultados=data.resultados;
+
+    let totalJugadores=Object.keys(jugadores).length;
+    let totalPartidos=new Set(baseData.map(d=>d.partido)).size;
+
+    // KPI
+    totalPartidos>0
+        ? document.getElementById("promedio").innerText =
+          (Object.values(jugadores).reduce((a,b)=>a+b,0)/(totalJugadores*totalPartidos)*100).toFixed(1)+"%"
+        : 0;
+
+    document.getElementById("totalJugadores").innerText=totalJugadores;
+    document.getElementById("totalPartidos").innerText=totalPartidos;
+
+    // TOP 3
+    let ranking=Object.entries(jugadores)
+        .sort((a,b)=>b[1]-a[1]);
+
+    let colores=["gold","silver","#cd7f32"];
+    let htmlTop="";
+
+    ranking.slice(0,3).forEach((r,i)=>{
+        htmlTop+=`
+        <div class="cardTop" style="background:${colores[i]}">
+        <h2>${i+1}°</h2>
+        <p>${r[0]}</p>
+        <p>${r[1]} pts</p>
+        </div>`;
+    });
+
+    document.getElementById("top3").innerHTML=htmlTop;
+
+    // GRAFICA
+    new Chart(document.getElementById("grafica"),{
+        type:"bar",
+        data:{
+            labels:ranking.map(r=>r[0]),
+            datasets:[{
+                data:ranking.map(r=>r[1]),
+                backgroundColor:"#22c55e"
+            }]
+        }
+    });
+
+    // RANKING TABLA
+    let htmlRank="";
+    ranking.forEach(r=>{
+        htmlRank+=`<tr><td>${r[0]}</td><td>${r[1]}</td></tr>`;
+    });
+
+    rankingDiv=document.getElementById("ranking");
+    rankingDiv.innerHTML=htmlRank;
+
+    // MATRIZ
+    let jugadoresList=[...new Set(baseData.map(d=>d.jugador))];
+    let partidos=[...new Set(baseData.map(d=>d.partido))];
+
+    let htmlM="<tr><th>Jugador</th>";
+    partidos.forEach(p=>htmlM+=`<th>P${p}</th>`);
+    htmlM+="</tr>";
+
+    jugadoresList.forEach(j=>{
+
+        htmlM+=`<tr><td>${j}</td>`;
+
+        partidos.forEach(p=>{
+
+            let r=baseData.find(d=>d.jugador===j && d.partido===p);
+
+            if(!r){
+                htmlM+="<td>-</td>";
+                return;
+            }
+
+            let ok=r.pred===resultados[p];
+
+            htmlM+=`<td><div class="dot ${ok?'verde':'rojo'}"></div></td>`;
+        });
+
+        htmlM+="</tr>";
+    });
+
+    document.getElementById("matriz").innerHTML=htmlM;
+
+});
+</script>
+
+</body>
+</html>

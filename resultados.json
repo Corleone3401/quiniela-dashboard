@@ -1,0 +1,4626 @@
+{
+  "fecha": "9/6/2026, 3:02:10 p.m.",
+  "jugadores": {
+    "DANIEL AVILEZ": 61,
+    "EL MANOTAS": 49,
+    "EL LOCO": 6,
+    "PEDRO PABLO": 72,
+    "CAMELIA LA TEXANA": 0,
+    "JUEAN EL BAILADOR": 0,
+    "SANCHO PANSA": 0,
+    "EL CHICO TORNILLO": 0,
+    "PAQUITA LA FINA": 0
+  },
+  "baseData": [
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "V",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "E",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "E",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "V",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "E",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "E",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "E",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "DANIEL AVILEZ"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "V",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "E",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "EL MANOTAS"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "L",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "L",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "E",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "L",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "L",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "L",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "EL LOCO"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "L",
+      "jugador": "PEDRO PABLO"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "E",
+      "jugador": "CAMELIA LA TEXANA"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "JUEAN EL BAILADOR"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "SANCHO PANSA"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "EL CHICO TORNILLO"
+    },
+    {
+      "partido": 1,
+      "local": "MÉXICO",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 2,
+      "local": "COREA DEL SUR",
+      "visita": "REPÚBLICA CHECA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 3,
+      "local": "CANADÁ",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 4,
+      "local": "USA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 5,
+      "local": "CATAR",
+      "visita": "SUIZA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 6,
+      "local": "BRASIL",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 7,
+      "local": "HAITÍ",
+      "visita": "ESCOCIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 8,
+      "local": "AUSTRALIA",
+      "visita": "TURQUÍA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 9,
+      "local": "ALEMANIA",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 10,
+      "local": "HOLANDA",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 11,
+      "local": "COSTA DE MARFIL",
+      "visita": "ECUADOR",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 12,
+      "local": "SUECIA",
+      "visita": "TÚNEZ",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 13,
+      "local": "ESPAÑA",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 14,
+      "local": "BÉLGICA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 15,
+      "local": "ARABIA SAUDITA",
+      "visita": "URUGUAY",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 16,
+      "local": "IRÁN",
+      "visita": "NUEVA ZELANDA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 17,
+      "local": "FRANCIA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 18,
+      "local": "IRAK",
+      "visita": "NORUEGA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 19,
+      "local": "ARGENTINA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 20,
+      "local": "AUSTRIA",
+      "visita": "JORDANIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 21,
+      "local": "PORTUGAL",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 22,
+      "local": "INGLATERRA",
+      "visita": "CROAZIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 23,
+      "local": "GHANA",
+      "visita": "PANAMÁ",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 24,
+      "local": "UZBEKISTÁN",
+      "visita": "COLOMBIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 25,
+      "local": "REPÚBLICA CHECA",
+      "visita": "SUDÁFRICA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 26,
+      "local": "SUIZA",
+      "visita": "BOSNIA HERZEGOVINA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 27,
+      "local": "CANADÁ",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 28,
+      "local": "MÉXICO",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 29,
+      "local": "USA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 30,
+      "local": "ESCOCIA",
+      "visita": "MARRUECOS.",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 31,
+      "local": "BRASIL",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 32,
+      "local": "TURQUÍA",
+      "visita": "PARAGUAY",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 33,
+      "local": "HOLANDA",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 34,
+      "local": "ALEMANIA",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 35,
+      "local": "ECUADOR",
+      "visita": "CURASAO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 36,
+      "local": "TÚNEZ",
+      "visita": "JAPÓN",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 37,
+      "local": "ESPAÑA",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 38,
+      "local": "BÉLGICA",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 39,
+      "local": "URUGUAY",
+      "visita": "CABO VERDE",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 40,
+      "local": "NUEVA ZELANDA",
+      "visita": "EGIPTO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 41,
+      "local": "ARGENTINA",
+      "visita": "AUSTRIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 42,
+      "local": "FRANCIA",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 43,
+      "local": "NORUEGA",
+      "visita": "SENEGAL",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 44,
+      "local": "JORDANIA",
+      "visita": "ARGELIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 45,
+      "local": "PORTUGAL",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 46,
+      "local": "INGLATERRA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 47,
+      "local": "PANAMÁ",
+      "visita": "CROACIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 48,
+      "local": "COLOMBIA",
+      "visita": "CONGO DEMOCRÁTICO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 49,
+      "local": "SUIZA",
+      "visita": "CANADÁ",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 50,
+      "local": "BOSNIA HERZEGOVINA",
+      "visita": "QATAR",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 51,
+      "local": "ESCOCIA",
+      "visita": "BRASIL",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 52,
+      "local": "MARRUECOS",
+      "visita": "HAITÍ",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 53,
+      "local": "REPÚBLICA CHECA",
+      "visita": "MÉXICO",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 54,
+      "local": "SUDÁFRICA",
+      "visita": "COREA DEL SUR",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 55,
+      "local": "CURASAO",
+      "visita": "COSTA DE MARFIL",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 56,
+      "local": "ECUADOR",
+      "visita": "ALEMANIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 57,
+      "local": "JAPÓN",
+      "visita": "SUECIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 58,
+      "local": "TÚNEZ",
+      "visita": "HOLANDA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 59,
+      "local": "TURQUÍA",
+      "visita": "USA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 60,
+      "local": "PARAGUAY",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 61,
+      "local": "NORUEGA",
+      "visita": "FRANCIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 62,
+      "local": "SENEGAL",
+      "visita": "IRAK",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 63,
+      "local": "URUGUAY",
+      "visita": "ESPAÑA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 64,
+      "local": "CABO VERDE",
+      "visita": "ARABIA SAUDITA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 65,
+      "local": "EGIPTO",
+      "visita": "IRÁN",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 66,
+      "local": "NUEVA ZELANDA",
+      "visita": "BÉLGICA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 67,
+      "local": "PANAMÁ",
+      "visita": "INGLATERRA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 68,
+      "local": "CROACIA",
+      "visita": "GHANA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 69,
+      "local": "CONGO DEMOCRÁTICO",
+      "visita": "UZBEKISTÁN",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 70,
+      "local": "COLOMBIA",
+      "visita": "PORTUGAL",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 71,
+      "local": "JORDANIA",
+      "visita": "ARGENTINA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    },
+    {
+      "partido": 72,
+      "local": "ARGELIA",
+      "visita": "AUSTRALIA",
+      "pred": "V",
+      "jugador": "PAQUITA LA FINA"
+    }
+  ],
+  "resultados": {
+    "1": "L",
+    "2": "L",
+    "3": "L",
+    "4": "L",
+    "5": "L",
+    "6": "L",
+    "7": "L",
+    "8": "L",
+    "9": "L",
+    "10": "L",
+    "11": "L",
+    "12": "L",
+    "13": "L",
+    "14": "L",
+    "15": "L",
+    "16": "L",
+    "17": "L",
+    "18": "L",
+    "19": "L",
+    "20": "L",
+    "21": "L",
+    "22": "L",
+    "23": "L",
+    "24": "L",
+    "25": "L",
+    "26": "L",
+    "27": "L",
+    "28": "L",
+    "29": "L",
+    "30": "L",
+    "31": "L",
+    "32": "L",
+    "33": "L",
+    "34": "L",
+    "35": "L",
+    "36": "L",
+    "37": "L",
+    "38": "L",
+    "39": "L",
+    "40": "L",
+    "41": "L",
+    "42": "L",
+    "43": "L",
+    "44": "L",
+    "45": "L",
+    "46": "L",
+    "47": "L",
+    "48": "L",
+    "49": "L",
+    "50": "L",
+    "51": "L",
+    "52": "L",
+    "53": "L",
+    "54": "L",
+    "55": "L",
+    "56": "L",
+    "57": "L",
+    "58": "L",
+    "59": "L",
+    "60": "L",
+    "61": "L",
+    "62": "L",
+    "63": "L",
+    "64": "L",
+    "65": "L",
+    "66": "L",
+    "67": "L",
+    "68": "L",
+    "69": "L",
+    "70": "L",
+    "71": "L",
+    "72": "L"
+  }
+}
